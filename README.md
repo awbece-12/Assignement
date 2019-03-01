@@ -94,21 +94,21 @@
         </ul>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="bsfiles/images/car2.jpeg" alt="Los Angeles" width="1100" height="500">
+                <img src="images/car2.jpeg" alt="Los Angeles" width="1100" height="500">
                 <div class="carousel-caption">
                     <h3>Hearts On Fire</h3>
                     <p>Classic Sit& Diamond Studs!</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="bsfiles/images/DSC_0263.JPG" alt="Chicago" width="1100" height="500">
+                <img src="images/DSC_0263.JPG" alt="Chicago" width="1100" height="500">
                 <div class="carousel-caption">
                     <h3>Perricone MD</h3>
                     <p>The Unpeel Blue Zanforn Santa-Alicia</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="bsfiles/images/DSC_0288.JPG" alt="New York" width="1100" height="500">
+                <img src="images/DSC_0288.JPG" alt="New York" width="1100" height="500">
                 <div class="carousel-caption">
                     <h3>New York</h3>
                     <p>We love the Big Apple!</p>
