@@ -2,8 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/fontawesome.css">
+    <link rel="stylesheet" href="bsfiles/css/bootstrap.css">
+    <link rel="stylesheet" href="bsfiles/css/fontawesome.css">
 
 </head>
 <body>
